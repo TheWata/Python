@@ -1,6 +1,7 @@
 produto = ['produto1','produto2','produto3']
 preco = ['5,00','7,50','3,50']
 codigo = ['1','2','3']
+#Adiciona produtos teste para serem consultados
 entrada =[]
 
 def cadastrar(novoproduto,novopreco,novocodigo):
